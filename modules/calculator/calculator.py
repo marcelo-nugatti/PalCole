@@ -9,7 +9,7 @@ __author__ = "Marcelo Nuñez"
 __copyright__ = "Copyright 2020, PalCole"
 __credits__ = "PalCole"
 
-__licence__ = "MIT"
+__licence__ = "MIT License"
 __version__ = "1.0.1"
 __maintainer__ = "Marcelo Nuñez"
 __email__ = "real.nugatti@gmail.com"
